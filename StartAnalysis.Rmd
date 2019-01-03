@@ -1,0 +1,32 @@
+---
+title: "StartAnalysis"
+author: "NING"
+date: "3 January 2019"
+output: github_document
+---
+
+```{r setup, include = TRUE}
+# way to set defant setting for the documents
+a=1
+b=1
+c = a+b
+c
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+fg sd
+#
+
+
+##my title
+
+
+```{r s1}
+
+```
+
+```{r}
+
+```
+
